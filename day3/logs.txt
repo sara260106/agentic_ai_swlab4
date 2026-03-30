@@ -1,0 +1,16 @@
+Input: calculate 20 + 5
+Tool: calculator
+Output: Result: 25
+------------------------------
+Input: weather
+Tool: weather
+Output: Weather in Nashik: Sunny, 30°C
+------------------------------
+Input: summarize this is an example of long text for testing
+Tool: summarizer
+Output: Summary: this is an example of...
+------------------------------
+Input: hello
+Tool: unknown
+Output: I don't understand
+------------------------------
